@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-certifications/fact/notes/day-1/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/03-certifications/fact/notes/day-1/","dg-note-properties":{}}
 ---
 
 # 🚀 DAY 1 — COMPLETE TEACHING SESSION
